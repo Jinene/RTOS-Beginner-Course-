@@ -1,4 +1,3 @@
-### 04_Interrupts.md
 
 ```markdown
 # Lesson 4 — Interrupts
