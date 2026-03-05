@@ -1,0 +1,7 @@
+Exercise 4
+Classify tasks as hard or soft real-time:
+
+Heartbeat sensor every 2ms
+Weather data logging every 5s
+Video frame update 30fps
+Answer: 1-Hard, 2-Soft, 3-Soft
