@@ -9,7 +9,6 @@
 
 Learn real-time concepts, timing constraints, and why RTOS is needed.
 
----
 
 ## Lessons
 
