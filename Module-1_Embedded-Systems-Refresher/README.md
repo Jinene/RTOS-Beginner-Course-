@@ -20,3 +20,6 @@ Understand embedded systems fundamentals and bare-metal limitations before learn
 - [Exercise 1](Exercises/Exercise1.md)  
 - [Exercise 2](Exercises/Exercise2.md)  
 - [Exercise 3](Exercises/Exercise3.md)
+- [Exercise 4](Exercises/Exercise1.md)  
+- [Exercise 5](Exercises/Exercise2.md)  
+- [Exercise 6](Exercises/Exercise3.md)
